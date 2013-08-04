@@ -1,4 +1,6 @@
-tsql_utilities
-==============
+tsql_utilities (A SQL Server TSQL Utilities Library)
+====================================================
 
-SQL Server TSQL Utilities
+A small collection of general purpose TSQL tables, functions, and stored procedures.
+
+
